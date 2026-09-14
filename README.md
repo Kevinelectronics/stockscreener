@@ -1,5 +1,7 @@
 # Stock Screener Backtest — 10 Classic Screening Rules Tested Over 20 Years in Python
 
+![I Tested 10 Stock Screening Rules Across 20 Years of Market Data](banner.png)
+
 A Python backtesting engine that runs **10 classic stock-screening rules** — Low P/E,
 High Dividend Yield, PEG < 1, Price-to-Book < 1.5, High ROE, Near 52-Week Low, Golden
 Cross, RSI Oversold, 12-1 Momentum, and 10-Year Dividend Growth — against 20 years of
