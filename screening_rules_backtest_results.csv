@@ -1,0 +1,11 @@
+rule,cagr,max_drawdown,sharpe
+High ROE,12.5,-21.7,0.86
+Near 52-Week Low,12.4,-22.0,0.92
+Golden Cross,10.5,-24.9,0.74
+10-Year Dividend Growth,10.4,-18.9,0.83
+12-1 Momentum,9.3,-26.4,0.61
+RSI Oversold,8.7,-23.5,0.31
+Low P/E,8.7,-22.9,0.56
+PEG < 1,7.0,-25.4,0.4
+High Dividend Yield,6.9,-21.5,0.47
+Price-to-Book < 1.5,0.0,0.0,
